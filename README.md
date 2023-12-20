@@ -7,9 +7,10 @@ Junior Software Developer
 Enthusiastic selftaught software developer who likes to solve problems, trives for innovation and loves learning new things. Automating, monitoring and implementing tasks with an eye on clean code and clean architecture. I love to collaborate, share knowledge and make an positive impact overall. Feel free to connect with me, let's share our thoughts and ideas. 🙌😊
 
 * 🌍  I'm based in Munich
-* 🧠  I'm learning React, and Typescript
+* 🧠  I'm currently learning React and JavaScript
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  you can talk to me in german, english, serbian, spanish and polish
+* ⚡  you can talk to me in: 💥german 💥english 💥serbian 💥spanish 💥portuguese 💥polish
+* experience in: Java. Kotlin, Microservices, Springboot, Quarkus, MVC-Design, JSON, REST, Gradle/Maven, PostgreSQL, Docker-Compose, Flyway, Hibernate ORM, Keycloak, Git, Azure DevOps, agile development
 
 ### Skills
 
